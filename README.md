@@ -1,6 +1,5 @@
 # MOOC 课程信息采集系统
 
-> 中国大学 MOOC（icourse163.org）一流课程频道 · 纯 Selenium 全流程爬虫 · 零 API 依赖
 
 ---
 
